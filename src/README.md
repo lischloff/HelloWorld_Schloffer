@@ -1,43 +1,48 @@
+
 # HelloWorld
+
+<a name="top"></a>
 
 ## Author
 Lisa Schloffer
+
 LBS Eibiswald | 2aAPC | 11.09.2024
 
 Wichtige Funktionen erklärt:
 
-commit: Speichert Änderungen im lokalen Git-Repository mit einer Nachricht zur Beschreibung.
-
+commit: Speichert Änderungen im lokalen Git-Repository mit einer Nachricht zur Beschreibung. 
 branch: Erstellt eine neue Entwicklungszweig oder zeigt existierende an.
 
-merge: Fügt die Änderungen eines Branches in einen anderen zusammen.
+merge: Fügt die Änderungen eines Branches in einen anderen zusammen. 
 
-checkout/switch: Wechselt zwischen verschiedenen Branches oder Revisionen im Repository.
+checkout/switch: Wechselt zwischen verschiedenen Branches oder Revisionen im Repository. 
 
-rebase: Ändert den Basis-Commit eines Branches.
+rebase: Ändert den Basis-Commit eines Branches. 
 
-cherry-pick: Wendet einen spezifischen Commit von einem anderen Branch auf den aktuellen an.
+cherry-pick: Wendet einen spezifischen Commit von einem anderen Branch auf den aktuellen an. 
 
 reset: Mit reset lassen sich auf einfache Weise Änderungen rückgängig machen, die noch nicht mit anderen geteilt wurden.
 
 push: Überträgt lokale Commits zum Remote-Repository.
 
-pull: Holt Änderungen aus dem Remote-Repository und integriert sie im lokalen Repository.
+pull: Holt Änderungen aus dem Remote-Repository und integriert sie im lokalen Repository. 
 
-origin: Standardbezeichnung für das standardmäßige Remote-Repository, von dem aus geclont oder zu dem gepusht wird.
+origin: Standardbezeichnung für das standardmäßige Remote-Repository, von dem aus geclont oder zu dem gepusht wird. 
 
 
 ## Installation
-git checkout origin/master
+git checkout origin/master [Back to top](#top)
 
 
-## Technologies Used
-- Java
+## Verwendung
+- Java [Back to top](#top)
 
 // some source code configuration
 
-![img.png](img.png)
+## Screenshot
+
+![img.png](img.png) [Back to top](#top)
 
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) [Back to top](#top)
