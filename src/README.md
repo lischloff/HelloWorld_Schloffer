@@ -7,7 +7,7 @@ Lisa Schloffer
 
 LBS Eibiswald | 2aAPC | 11.09.2024
 
-## Wichtige Funktionen erklärt:
+## Wichtige GitHub Funktionen erklärt:
 
 commit: Speichert Änderungen im lokalen Git-Repository mit einer Nachricht zur Beschreibung.
 
@@ -30,17 +30,24 @@ pull: Holt Änderungen aus dem Remote-Repository und integriert sie im lokalen R
 origin: Standardbezeichnung für das standardmäßige Remote-Repository, von dem aus geclont oder zu dem gepusht wird.
 
 ## Installation
-git checkout origin/master ( [Back to top](#top) )
+git checkout origin/master 
+
+( [Back to top](#top) )
 
 ## Verwendung
-- Java ( [Back to top](#top) )
+- Java 
+
+( [Back to top](#top) )
 
 // some source code configuration
 
 ## Screenshot
 
 ![img.png](img.png)
+
 ( [Back to top](#top) )
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) ( [Back to top](#top) )
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) 
+
+( [Back to top](#top) 
