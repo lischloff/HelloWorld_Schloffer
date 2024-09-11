@@ -28,12 +28,12 @@ origin: Standardbezeichnung für das standardmäßige Remote-Repository, von dem
 
 
 ## Technologies Used
-- Java !Java Icon
+- Java ![Java Icon]
 
 // some source code configuration
 
-!![img.png](img.png)
+![img.png](img.png)
 
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
