@@ -27,8 +27,12 @@ pull: Holt Änderungen aus dem Remote-Repository und integriert sie im lokalen R
 origin: Standardbezeichnung für das standardmäßige Remote-Repository, von dem aus geclont oder zu dem gepusht wird.
 
 
+## Installation
+git checkout origin/master
+
+
 ## Technologies Used
-- Java ![Java Icon]
+- Java
 
 // some source code configuration
 
