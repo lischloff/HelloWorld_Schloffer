@@ -35,11 +35,11 @@ git checkout origin/master
 ( [Back to top](#top) )
 
 ## Verwendung
-- Java 
-
-( [Back to top](#top) )
+- Java
 
 // some source code configuration
+
+( [Back to top](#top) )
 
 ## Screenshot
 
